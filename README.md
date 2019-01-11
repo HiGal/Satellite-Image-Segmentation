@@ -13,6 +13,7 @@ The input image size was 6528x7734 pixels with 3 channels (RGB).
 2. The architecture of neural network was similar to U-Net but with some modifications.
     * As encoder part we have taken pretrained ResNet50 convolution network on *imagenet* dataset
     * Decoder model have 5 upsampling layers. On each layer (exept the last) there is 2 convolution layers with batch normaliztion
+3. You can download weights [here](https://yadi.sk/d/9OkyfadDlntJjA)    
 
 ## Results
 ![Imgur](https://i.imgur.com/A3IznSR.png)
