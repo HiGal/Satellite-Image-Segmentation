@@ -1,4 +1,4 @@
-# Satellite-Map-Segmentation
+# Satellite Image Segmentation
 Solution that we have achieved on GIS Tech Hack hackathon on building segmentation
 
 ## Hackathon task
